@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Lighter
+  - Trail
+  - Shape
   layers:
   - Default
   - TransparentFX
